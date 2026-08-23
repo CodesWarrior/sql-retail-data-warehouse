@@ -1,9 +1,0 @@
-warehouse_id,warehouse_name,city,capacity
-WH001,Cagayan de Oro Warehouse,Iloilo,18497
-WH002,Quezon City Warehouse,Quezon City,5236
-WH003,Cagayan de Oro Warehouse,Digos,29774
-WH004,Digos Warehouse,Panabo,26867
-WH005,Digos Warehouse,Cebu City,23494
-WH006,Manila Warehouse,Cebu City,12363
-WH007,Panabo Warehouse,Manila,23659
-WH008,Cagayan de Oro Warehouse,Davao City,16135
