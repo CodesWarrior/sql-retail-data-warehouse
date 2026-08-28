@@ -117,7 +117,7 @@ order_id VARCHAR(50),
 prd_id VARCHAR(50),
 quantity INT,
 unit_price decimal(10,2),
-discount decimal(5,4));
+discount decimal(5,2));
 
 /*-------------------------------------------------
     CRM SALES ORDERS
