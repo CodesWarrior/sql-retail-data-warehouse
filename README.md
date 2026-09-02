@@ -14,3 +14,4 @@ Integrate data from multiple sources
 Create analytical-ready datasets
 Apply data quality checks and validation
 Generate business insights from the transformed data
+--- DECIDED NOT TO CONTINUE THIS PROJECT, DATA I USED TO ARE SYNTHETIC, MOVING FORWARD
